@@ -1,5 +1,4 @@
 # something-about-me
-This a personal introduction about me.
 
 Borned in China.
 
